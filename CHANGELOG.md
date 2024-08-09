@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+- Add `:request-handler` and `:notification-handler` options, as a preferred
+  alternative to the `receive-request` and `receive-notification`
+  multi-methods.
+
 ## v1.10.0
 
 - Add `textDocument/foldingRange` schemas.
